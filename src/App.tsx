@@ -1,6 +1,6 @@
-import Message from './Message';
+import Table from './Components/Table';
 
 function App(){
-  return <Message/>;
+  return <Table/>;
 }
 export default App;
